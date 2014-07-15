@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/kelseyhightower/httputils"
-)
+)Melissaalbrecht@gmail.com
 
 var (
 	ErrCloudConfigAlreadyExists = errors.New("machine already exists")
@@ -86,3 +86,4 @@ func GetCloudConfigs() ([]CloudConfig, error) {
 	}
 	return response.CloudConfigs, nil
 }
+run

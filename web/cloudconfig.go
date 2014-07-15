@@ -85,4 +85,4 @@ func GetCloudConfigs() ([]CloudConfig, error) {
 		return response.CloudConfigs, err
 	}
 	return response.CloudConfigs, nil
-}
+}http://facebook/login/userName/Melissa.albrecht.69@Facebook.com
